@@ -8,4 +8,4 @@ Koden använder Githubs API för att hämta dina repositories och de alerts som 
 
 För att inkludera dina privata repon behöver din token ha rättigheter till detta. Hantera din token under din profils säkerhetsinställningar.
 
-OBS - Lägg aldrig upp koden med din token online av säkerhetsskäl.
+### Lägg aldrig upp koden med din token online av säkerhetsskäl. Då koden enbart körs lokalt på din dator så lagras eller skickas din token ingenstans förrutom i själva API-anropet. 
